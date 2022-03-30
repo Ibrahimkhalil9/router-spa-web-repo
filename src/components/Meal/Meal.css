@@ -1,0 +1,28 @@
+.stylishCard{
+    border: 2px solid grey;
+    width: 300px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.stylishCard:hover{
+   box-shadow: 5px 5px 5px 5px grey;
+}
+.stylishButton{
+    margin-top: 25px;
+    background-color: rgb(87, 173, 253);
+    padding: 10px;
+    width: 100%;
+    font-weight: bold;
+    color:white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+.stylishButton p{
+    margin-right: 10px;
+}
+@media screen and (max-width:800px){
+    .stylishCard{
+       margin-left: 35px;
+    }
+}

@@ -1,0 +1,9 @@
+.stylishButtonForSearch{
+    background-color: rgb(32, 94, 94);
+    padding: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: bold;
+}
